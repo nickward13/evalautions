@@ -1,3 +1,5 @@
+# see https://github.com/marketplace/actions/generative-ai-evaluation-action for more info on the AI evaluation action
+
 name: Sample Evaluate Action
 on:
   workflow_call:
